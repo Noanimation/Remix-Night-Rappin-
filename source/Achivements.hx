@@ -17,7 +17,7 @@ class Achievements {
 		["Call Me Cursed",			"Beat Battle 3 on Hard with no Misses.",				'Battle3_nomiss',			false],
 		["Murder Mother",					"Beat Week 4 on Hard with no Misses.",				'Battle4_nomiss',			false],
 		["Missless Summer",			"Beat Week 5 on Hard with no Misses.",				'Battle5_nomiss',			false],
-		["Its the spooky month!!!",					"Beat Battle 6 on Hard with no Misses.",				'week6_nomiss',			false],
+		["Its the spooky month!!!",					"Beat Battle 6 on Hard with no Misses.",				'Battle6_nomiss',			false],
 		["God Effing Damn It!",			"Beat Battle 7 on Hard with no Misses.",				'Battle7_nomiss',			false],
 		["What a Hoven Fail!",	"Complete a Song with a rating lower than 20%.",	'ur_bad',				false],
 		["Community Game",				"Complete a Song with a rating of 100%.",			'ur_good',				false],
